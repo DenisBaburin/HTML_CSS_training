@@ -137,6 +137,7 @@ body {
   background-color: #151515;
   padding: 23px;
   max-width: 430px;
+  width: 100%;
   display: inline-block;
   text-transform: uppercase;
   font-size: 36px;
